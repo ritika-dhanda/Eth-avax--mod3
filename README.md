@@ -1,14 +1,17 @@
 # Eth-avax--mod3
 Eth-avax intermediate Module 3
 
-#Introduction
+#Introduction:
+
 The code in this repository comprises a Solidity smart contract that implements an ERC-20 token. The contract includes essential functionalities like token minting, burning.
 
 - Use the mint function to create the new tokens.
 - Use the burn function to destroy a certain amount of tokens.
 
 
-#Implementation
+#Implementation:
+
+
 1.Clone the repository and install its dependencies:
 2.npm install
 3.Install the @remix-project/remixd dependency to connect Remix IDE:
