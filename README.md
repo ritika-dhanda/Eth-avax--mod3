@@ -1,5 +1,6 @@
 # Eth-avax--mod3
 Eth-avax intermediate Module 3
+
 #Introduction
 The code in this repository comprises a Solidity smart contract that implements an ERC-20 token. The contract includes essential functionalities like token minting, burning.
 
